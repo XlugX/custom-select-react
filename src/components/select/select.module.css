@@ -1,0 +1,21 @@
+.btn {
+    border: 2px solid rgb(56, 86, 114);
+    background: none;
+    width: 100%;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: 700;
+}
+.select {
+    width: 80%;
+    margin: 10px auto;
+    padding-top: 40px;
+    cursor: pointer;
+}
+.option {
+    border: 2px solid rgb(56, 86, 114);
+    padding: 10px;
+    
+}
